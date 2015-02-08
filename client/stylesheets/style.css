@@ -82,3 +82,41 @@ width: 250px;
 float: right;
 clear: both; margin-bottom: 5px; pointer-events: auto;
 }
+
+.elBox{
+width: 959px;
+height: 130px;
+visibility: visible;
+zoom: 1;
+opacity: 0.75;
+z-index: 10036;
+border-top-color: rgb(200, 200, 200);
+border-top-style: solid;
+border-top-width: 0px;
+border-right-color: rgb(200, 200, 200);
+border-right-style: solid;
+border-right-width: 0px;
+border-bottom-color: rgb(200, 200, 200);
+border-bottom-style: solid;
+border-bottom-width: 0px;
+border-left-color: rgb(200, 200, 200);
+border-left-style: solid;
+border-left-width: 0px;
+border-radius: 0px;
+color: rgb(0, 0, 0);
+font-size: 14px;
+font-weight: normal;
+font-style: normal;
+font-family: Arial;
+text-align: center;
+padding: 0px;
+padding-top: 0px;
+padding-right: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+background-image: none;
+background-color: rgb(237, 120, 74);
+background-size: auto;
+background-position: 50% 50%;
+background-repeat: repeat;
+}
